@@ -1,0 +1,9 @@
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\bin\Debug\BLL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\bin\Debug\BLL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\obj\Debug\BLL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\obj\Debug\BLL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\bin\Debug\IDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\bin\Debug\IDAL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\bin\Debug\DALFactory.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\BLL\bin\Debug\DALFactory.pdb

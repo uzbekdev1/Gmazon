@@ -1,0 +1,7 @@
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\bin\Debug\IDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\bin\Debug\IDAL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\bin\Debug\DALFactory.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\bin\Debug\DALFactory.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\obj\Debug\DALFactory.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\DALFactory\obj\Debug\DALFactory.pdb

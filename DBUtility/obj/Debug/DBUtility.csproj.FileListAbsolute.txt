@@ -1,0 +1,5 @@
+C:\ASP.NET\Last\Gmazon\Gmazon\DBUtility\bin\Debug\DBUtility.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\DBUtility\bin\Debug\DBUtility.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\ASP.NET\Last\Gmazon\Gmazon\DBUtility\obj\Debug\DBUtility.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\DBUtility\obj\Debug\DBUtility.pdb

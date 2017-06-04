@@ -1,0 +1,9 @@
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\bin\Debug\Gmazon.SQLDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\bin\Debug\Gmazon.SQLDAL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\bin\Debug\DBUtility.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\bin\Debug\IDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\bin\Debug\IDAL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\bin\Debug\DBUtility.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\obj\Debug\Gmazon.SQLDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\SQLDAL\obj\Debug\Gmazon.SQLDAL.pdb

@@ -1,0 +1,5 @@
+C:\ASP.NET\Last\Gmazon\Gmazon\OleDbDAL\bin\Debug\OleDbDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\OleDbDAL\bin\Debug\OleDbDAL.pdb
+C:\ASP.NET\Last\Gmazon\Gmazon\OleDbDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ASP.NET\Last\Gmazon\Gmazon\OleDbDAL\obj\Debug\OleDbDAL.dll
+C:\ASP.NET\Last\Gmazon\Gmazon\OleDbDAL\obj\Debug\OleDbDAL.pdb
